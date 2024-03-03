@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 # Context Aware Bot: Research Tool 
+=======
+# Context Aware Chatbot: News Research Tool 
+>>>>>>> f09f1c2cd5a963c602d391b717d3421fced1a93f
 
 This is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
